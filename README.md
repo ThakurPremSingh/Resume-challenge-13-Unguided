@@ -84,86 +84,53 @@ From my analysis, I came up with the insights like<br>
 Slide: 11<br>
 I have made monthly city level target performance report<br>
 I have performed joins between dim date, dim city and monthly target trips table and collected the combined data<br>
-Slide: 12
-	I saved this data in csv format and used power bi to visualize it
-	From my analysis, I came up with insights like
-•	Jaipur city topped with performance almost 15% more than targeted
-•	Least was Lucknow with performance of 10 % less then targeted
-•	Only 40% of cities reached target level
-Slide: 13
-	I have to make city level repeat passenger trip frequency report
-	Here I performed joins between dim city and dim repeat trip distribution and collected the data
-Slide: 14
-	From my analysis, I came up with insights like
-•	In 2 trips repeat frequency 60% cities has peaked
-•	Surat & Coimbatore were top in 5 trip repetition frequency
-•	Vadodara & Lucknow were top in 6 trips repetition frequency
-Slide: 15
-	I have to identify cities with highest and lowest total new passengers
-	I performed queries on dim city and fact trip table and collected the data
-Slide: 16
-	From my analysis, I came up with insights like
-•	Coimbatore lacks 20% than that of Jaipur city
-•	Jaipur has 1/4th of total new passengers in India
-Slide: 17
-	I have to identify month with highest revenue for each city
-	I have performed joins between dim city and fact trip table and collected the data
-Slide: 18
-	From my analysis, I came up with insights like
-•	40% of cities has April as highest revenue month
-•	60% of cities has June as lowest revenue month
-Slide: 19
-	I have to do repeat passenger rate analysis
-	I performed queries on fact passenger summary, dim city and dim date and collected the data
-Slide: 20
-	From my analysis, I came up with insights like
-•	Repeat passenger rate is highest for Surat with 42 % repetition and least for Mysore with almost 12% repetition
-•	May month has highest repeat passenger rate % and January has least repeat passenger rate % and both are at Kochi city
-Slide: 21
-	Here is a sample dashboard created for Vishakhapatnam city
-	I have performed power query operations in power bi and created it
-	The dashboard link is given below
-	From this interactive dashboard we can get information related to various key metrics at a glance and we can conclude to actionable plans
-Slide: 22
-	Here are few conclusions based on KPI like total trips, price efficiency, passenger rating, demand month, weekday and weekend preference cities, monthly evaluation, monthly repeat rate passengers
-Slide: 23
-	I would like to recommend good cabs these methods to increase its TAM and build a loyal brand
-	Train driver
-	Social media campaign
-	Dynamic fleet allocation
-	Health benefits
-	Incentive program
-	Reduce wait time
-	Regular inspection
-	Referral program
-	Driver profiles
-	Live ride monitoring
-	Partnerships
-	Multiple payment options
-	Local advertising
-	Transparent surge charges
-Slide: 24
-	Thank you
-	Reach out to build connections and lets grow together
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Slide: 12<br>
+I saved this data in csv format and used power bi to visualize it<br>
+From my analysis, I came up with insights like<br>
+•	=Jaipur city topped with performance almost 15% more than targeted<br>
+•	Least was Lucknow with performance of 10 % less then targeted<br>
+•	Only 40% of cities reached target level<br>
+Slide: 13<br>
+I have to make city level repeat passenger trip frequency report<br>
+Here I performed joins between dim city and dim repeat trip distribution and collected the data<br>
+Slide: 14<br>
+From my analysis, I came up with insights like<br>
+•	In 2 trips repeat frequency 60% cities has peaked<br>
+•	Surat & Coimbatore were top in 5 trip repetition frequency<br>
+•	Vadodara & Lucknow were top in 6 trips repetition frequency<br>
+Slide: 15<br>
+I have to identify cities with highest and lowest total new passengers<br>
+I performed queries on dim city and fact trip table and collected the data<br>
+Slide: 16<br>
+From my analysis, I came up with insights like<br>
+•	Coimbatore lacks 20% than that of Jaipur city<br>
+•	Jaipur has 1/4th of total new passengers in India<br>
+Slide: 17<br>
+I have to identify month with highest revenue for each city<br>
+I have performed joins between dim city and fact trip table and collected the data<br>
+Slide: 18<br>
+From my analysis, I came up with insights like<br>
+•	40% of cities has April as highest revenue month<br>
+•	60% of cities has June as lowest revenue month<br>
+Slide: 19<br>
+I have to do repeat passenger rate analysis<br>
+I performed queries on fact passenger summary, dim city and dim date and collected the data<br>
+Slide: 20<br>
+From my analysis, I came up with insights like<br>
+•	Repeat passenger rate is highest for Surat with 42 % repetition and least for Mysore with almost 12% repetition<br>
+•	May month has highest repeat passenger rate % and January has least repeat passenger rate % and both are at Kochi city<br>
+Slide: 21<br>
+Here is a sample dashboard created for Vishakhapatnam city<br>
+I have performed power query operations in power bi and created it<br>
+The dashboard link is given below<br>
+From this interactive dashboard we can get information related to various key metrics at a glance and we can conclude to actionable plans<br>
+Slide: 22<br>
+Here are few conclusions based on KPI like total trips, price efficiency, passenger rating, demand month, weekday and weekend preference cities, monthly evaluation, monthly repeat rate passengers<br>
+Slide: 23<br>
+I would like to recommend good cabs these methods to increase its TAM and build a loyal brand<br>
+Slide: 24<br>
+Thank you<br>
+Reach out to build connections and lets grow together<br>
 
 # Request 1
 with cte as (SELECT 
