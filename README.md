@@ -1,16 +1,15 @@
 # Resume-challenge-13-Unguided
 Transportation domain and Tools used for analysis are MySQL, Power BI and Excel 
 # Notes for presentation
-__Slide: 0
-	Good cabs good cabs good cabs, feel the beat
-	Good cabs is a cabs service company 
-	Let me give a brief on how this mobility business works
-Slide: 1
-	Cabs company don’t own any car they use existing vehicles and create employment
-	It is just a Tech company whose work is to make Drivers meet Riders. Here drivers get Part-time employment opportunity and riders gets their requirement full-filled
-	As Restrictions (like commercial registration, special driving license, regular checks) got decreased, these cabs company could provide their services at low price 
+##Slide: 0
+Good cabs good cabs good cabs, feel the beat
+Good cabs is a cabs service company 
+Let me give a brief on how this mobility business works
+## Slide: 1
+Cabs company don’t own any car they use existing vehicles and create employment
+It is just a Tech company whose work is to make Drivers meet Riders. Here drivers get Part-time employment opportunity and riders gets their requirement full-filled
+As Restrictions (like commercial registration, special driving license, regular checks) got decreased, these cabs company could provide their services at low price 
 Typical Framework of a cabs company
-	Goes through 4 steps
 •	Cash drain – they burn lot of money to penetrate into market and increase their product TAM
 •	Trust building – they make offers and show their gratitude towards customers to build trust
 •	Dependency – they try to make the customer feel comfortable using their services
@@ -29,15 +28,15 @@ Typical Algorithm used for price calculation consists of
 •	Cost per km multiplied by time (it is also depended on location)
 •	Surge multiplier (during bad weather conditions or huge demand)
 •	Booking fees (using platform to book a service)
-	Consumer 
+Consumer 
 (Per capital income of India is 1,84,000 rupees = 15000 rupees per month= 500 rupees per day)
 •	Super saver (late on work due to traffic jam)
 •	Super wealthy
-	In some locations there will be more drivers & in some locations there will be more riders, we need to balance them to work efficiently. Try to divide the locations into pentagons shape and differentiate the density of drivers and density of riders in each slot and then add surge charges accordingly and pool them by distributing drivers over various locations
-	Out of total cost of ride, company keeps 20-25% as a platform provider and 75-80% is given to the drivers, Strategic investors give advices how to save the company from being killed in competition
-	Places where there are a smaller number of cars but people are willing to work, they can take car on lease from the company and give services, then driver has to pay rent of the car to the company. The disadvantage of this program is that the company has to buy cars and keep it with them, it is difficult to manage them and it needs a lot of money.
-	Connecting drivers with fleet owners, they are the persons who has more than one vehicle at home/their company and are willing to give it on rent to increase their income
-Slide: 2
+In some locations there will be more drivers & in some locations there will be more riders, we need to balance them to work efficiently. Try to divide the locations into pentagons shape and differentiate the density of drivers and density of riders in each slot and then add surge charges accordingly and pool them by distributing drivers over various locations
+Out of total cost of ride, company keeps 20-25% as a platform provider and 75-80% is given to the drivers, Strategic investors give advices how to save the company from being killed in competition
+Places where there are a smaller number of cars but people are willing to work, they can take car on lease from the company and give services, then driver has to pay rent of the car to the company. The disadvantage of this program is that the company has to buy cars and keep it with them, it is difficult to manage them and it needs a lot of money.
+Connecting drivers with fleet owners, they are the persons who has more than one vehicle at home/their company and are willing to give it on rent to increase their income
+## Slide: 2
 This is a mobility operation domain and here
 •	Trip volume
 •	Passenger satisfaction
