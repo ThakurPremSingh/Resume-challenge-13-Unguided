@@ -36,12 +36,10 @@ FROM fact_trips t
     on c.city_id=t.city_id
 group by month_name, t.city_id;
 
----------------------------------------
 select city_id,sum(fare_amount) as percentage_contributtion 
     from fact_trips
     group by city_id ;
     
-----------------------------------
 with cte as (SELECT
 	t.city_id, month(date) as month_name
 FROM fact_trips t
@@ -77,8 +75,6 @@ group by month_name, fp.city_id)
 		when month_name = '5' then 'May'
 		when month_name = '6' then 'June'
         end) as mon from cte;
-        
-------------------------------------------
 
 select city_id, sum(repeat_passengers) as repeat_city_passengers from fact_passenger_summary group by city_id;
 
