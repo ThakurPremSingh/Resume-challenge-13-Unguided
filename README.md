@@ -1,15 +1,15 @@
 # Resume-challenge-13-Unguided
 Transportation domain and Tools used for analysis are MySQL, Power BI and Excel 
 # Notes for presentation
-## Slide: 0
+Slide: 0<br>
 Good cabs good cabs good cabs, feel the beat<br>
-Good cabs is a cabs service company 
-Let me give a brief on how this mobility business works
-## Slide: 1
-Cabs company don’t own any car they use existing vehicles and create employment
-It is just a Tech company whose work is to make Drivers meet Riders. Here drivers get Part-time employment opportunity and riders gets their requirement full-filled
-As Restrictions (like commercial registration, special driving license, regular checks) got decreased, these cabs company could provide their services at low price 
-Typical Framework of a cabs company
+Good cabs is a cabs service company<br>
+Let me give a brief on how this mobility business works<br>
+Slide: 1
+Cabs company don’t own any car they use existing vehicles and create employment<br>
+It is just a Tech company whose work is to make Drivers meet Riders. Here drivers get Part-time employment opportunity and riders gets their requirement full-filled<br>
+As Restrictions (like commercial registration, special driving license, regular checks) got decreased, these cabs company could provide their services at low price<br>
+Typical Framework of a cabs company<br>
 •	Cash drain – they burn lot of money to penetrate into market and increase their product TAM
 •	Trust building – they make offers and show their gratitude towards customers to build trust
 •	Dependency – they try to make the customer feel comfortable using their services
