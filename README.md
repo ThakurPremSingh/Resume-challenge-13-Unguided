@@ -1,7 +1,7 @@
 # Resume-challenge-13-Unguided
 Transportation domain and Tools used for analysis are MySQL, Power BI and Excel 
 # Notes for presentation
-Slide: 0
+**Slide: 0
 	Good cabs good cabs good cabs, feel the beat
 	Good cabs is a cabs service company 
 	Let me give a brief on how this mobility business works
