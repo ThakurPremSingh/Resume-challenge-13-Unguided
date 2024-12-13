@@ -1,8 +1,8 @@
 # Resume-challenge-13-Unguided
 Transportation domain and Tools used for analysis are MySQL, Power BI and Excel 
 # Notes for presentation
-##Slide: 0
-Good cabs good cabs good cabs, feel the beat
+## Slide: 0
+Good cabs good cabs good cabs, feel the beat<br>
 Good cabs is a cabs service company 
 Let me give a brief on how this mobility business works
 ## Slide: 1
@@ -41,23 +41,23 @@ This is a mobility operation domain and here
 •	Trip volume
 •	Passenger satisfaction
 •	Repeat passenger rate 
-•	Balance between new and repeat passengers…………...plays an important role
-Slide: 3
-	Good cabs are into transportation and mobility domain since last 2-years. It has gained a strong foothold in Indian cities. They built business on local ecosystem model so that it builds a strong loyalty driver base and they can give excellent service to the passengers
-Slide: 4
-	It has focused mainly on tier-2 cities with operations in ten cities across the India, we can see in map. Good cabs have set an ambitious performance targets for the year 2024, as a part of it the management team aims to access the company’s performance on various key aspects. So, they hired data analyst to get actionable insights and have robust growth
-Slide: 5
-	Hi everybody
-	I am thakur prem singh, I have started my journey as a software developer 3 year ago with TCS. Currently I am working on power bi project where I do analyse the data and suggest actionable insights. I have expertise in SQL, Power BI, Advanced excel & I can perform operations using Python libraries like pandas, numpy, matplotlib. 
-	Feel free to connect with me, I appreciate constructive criticism
-	Let’s get back to good cabs
-Slide: 6
-	As a data analyst I have collected data from good cabs and they provided it in csv format and SQL format
-	I have used excel to check contents in various tables and do cleaning of data if needed
-	I have used MySQL to perform query operations and answer the ad-hoc requests
-	I have used power bi to do data visualization and create an interactive dashboard
-	I used PowerPoint to present the data and give valuable insights
-	I used Microsoft word for documentation purpose
+•	Balance between new and repeat passengers
+## Slide: 3
+Good cabs are into transportation and mobility domain since last 2-years. It has gained a strong foothold in Indian cities. They built business on local ecosystem model so that it builds a strong loyalty driver base and they can give excellent service to the passengers
+## Slide: 4
+It has focused mainly on tier-2 cities with operations in ten cities across the India, we can see in map. Good cabs have set an ambitious performance targets for the year 2024, as a part of it the management team aims to access the company’s performance on various key aspects. So, they hired data analyst to get actionable insights and have robust growth
+## Slide: 5
+Hi everybody
+I am thakur prem singh, I have started my journey as a software developer 3 year ago with TCS. Currently I am working on power bi project where I do analyse the data and suggest actionable insights. I have expertise in SQL, Power BI, Advanced excel & I can perform operations using Python libraries like pandas, numpy, matplotlib. 
+Feel free to connect with me, I appreciate constructive criticism
+Let’s get back to good cabs
+## Slide: 6
+As a data analyst I have collected data from good cabs and they provided it in csv format and SQL format
+I have used excel to check contents in various tables and do cleaning of data if needed
+I have used MySQL to perform query operations and answer the ad-hoc requests
+I have used power bi to do data visualization and create an interactive dashboard
+I used PowerPoint to present the data and give valuable insights
+I used Microsoft word for documentation purpose
 Slide: 7
 	The Ad-hoc requests are
 1.	gives us information related to customer spending parity, we know their per capita income 
